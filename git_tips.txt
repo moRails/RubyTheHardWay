@@ -1,0 +1,3 @@
+list of git tips :
+
+git push -u origin master
